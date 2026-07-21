@@ -1,210 +1,234 @@
+<!-- ══════════════════════════════════════════════════ -->
+<!--         CYBERPUNK HACKER CITY BANNER              -->
+<!-- ══════════════════════════════════════════════════ -->
 <div align="center">
-
-<!-- TOP BANNER - controlled height -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prathmesh%20Bole&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=System%20Programmer%20%7C%20AI%20Developer%20%7C%20Backend%20Enthusiast&descSize=16&descAlignY=55" width="100%" />
-
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=Namaste+%F0%9F%99%8F+I'm+Prathmesh+Bole;Future+System+%26+Backend+Engineer;Java+%7C+C%2B%2B+%7C+Spring+Boot+Developer;IIT+Bombay+TechFest+2025+Finalist+%F0%9F%8F%86)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" height="200"/>
+</div>
 
 <br/>
 
-<!-- Profile Counters -->
-<img src="https://komarev.com/ghpvc/?username=prathmeshbole5-hub&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/prathmeshbole5-hub?label=STARS&style=flat-square&color=yellow" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/prathmeshbole5-hub?label=FOLLOWERS&style=flat-square&color=brightgreen" />
+<!-- ══════════════════════════════════════════════════ -->
+<!--         NEON GLOWING NAME GREETING                -->
+<!-- ══════════════════════════════════════════════════ -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&pause=1000&color=00FF88&center=true&vCenter=true&width=700&height=60&lines=Prathmesh+here+%F0%9F%94%A5+!)](https://git.io/typing-svg)
+
+### Namaste 🙏 I'm Prathmesh Bole
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ══════════════════════════════════════════════════ -->
+<!--              ABOUT ME                             -->
+<!-- ══════════════════════════════════════════════════ -->
 
-<!-- ═══════ ABOUT ME + SIDE GIF ═══════ -->
-<table border="0" width="100%" cellpadding="10">
+<div align="center">
+<img src="https://img.shields.io/badge/About%20Me-%2300FF88.svg?style=for-the-badge&logoColor=black" />
+</div>
+
+<br/>
+
+<table border="0" width="100%">
 <tr>
 <td width="60%" valign="top">
 
-### 💡 About Me
-
-- ⚡ I'm currently working on and developing my programming skills.
-- 🏆 **IIT Bombay TechFest 2025 AI Eduthon Finalist** — Top 5 out of 200+ teams!
-- 📌 Core skills: **Java, C++, C, Python, JavaScript, SQL**
-- 💼 Shipped **Mahalakshmi Finserv** — a production-grade freelance FinTech platform.
-- 🤖 Passionate about **AI, ML, Deep Learning, Data Science, Blockchain**
-- 🚀 Built multilingual AI education platform supporting **22+ Indian languages** via Gemini API.
+- 📌 Began the Journey with Software Development in school days.
+- 💻 I work on front-end development and am shaping what I can do in **Full Stack Development**.
+- 🧠 I am consistently pushing projects to completion.
+- 🏆 Worked on .Net Framework and keeps on experience in AI.
+- 🤖 Well-versed in React.js, JavaScript, Full Stack Development, Python.
+- 🎯 Interested in Artificial Intelligence including Data science, Machine Learning, Automation.
 - ✨ I only like perfection.
 
-<br/>
-
-### 📫 Connect Me
-
-<a href="mailto:prathmeshbole10@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/></a>
-&nbsp;
-<a href="https://linkedin.com/in/prathmesh-bole-27b65736b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/></a>
-&nbsp;
-<a href="https://github.com/prathmeshbole5-hub"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28"/></a>
-&nbsp;
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="28"/></a>
-&nbsp;
-<a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="28"/></a>
-
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="40%" align="center">
 
-<!-- FIXED SIZE - 300px max -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coder GIF"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ══════════════════════════════════════════════════ -->
+<!--           FOLLOW ME / SOCIAL BADGES               -->
+<!-- ══════════════════════════════════════════════════ -->
 
-<!-- ═══════ GITHUB STATUS ═══════ -->
-<div align="center">
+<div align="right">
 
-### 📊 Github Status
+**Follow me on :**
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prathmeshbole10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-bole-27b65736b)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prathmeshbole5-hub)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/)
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathmeshbole5-hub&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=ffffff&count_private=true" height="160" />
+<!-- ══════════════════════════════════════════════════ -->
+<!--        LANGUAGES & TOOLS MASSIVE ICON GRID        -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🛠️ Languages & Tools I Have placed My Hands On
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts,react,nextjs,html,css,tailwind,bootstrap" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,mysql,firebase,redis,graphql,docker,kubernetes,nginx" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman,vercel,cloudflare,figma,androidstudio,arduino,raspberrypi" />
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════ -->
+<!--              GITHUB STATS - 3 PANEL               -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 📊 Github Stats
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=prathmeshbole5-hub&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&count_private=true" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshbole5-hub&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=ffffff" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmeshbole5-hub&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmeshbole5-hub&theme=dark&hide_border=true&background=0D1117&stroke=00F2FE&ring=00F2FE&fire=FF6B6B&currStreakLabel=00F2FE" height="150" />
+### 📈 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshbole5-hub&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=ffffff" height="200"/>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════ LANGUAGES & TOOLS ═══════ -->
-<div align="center">
-
-### 🛠️ Languages & Tools I Have Placed My Hands On
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts,html,css,tailwind,react" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,mysql,firebase,docker,git,github" /><br/>
-<img src="https://skillicons.dev/icons?i=linux,bash,vscode,postman,vercel,cloudflare,figma,redis,graphql,androidstudio" />
+<!-- ══════════════════════════════════════════════════ -->
+<!--         GITHUB TROPHIES                           -->
+<!-- ══════════════════════════════════════════════════ -->
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════ BEST REPOSITORIES ═══════ -->
 <div align="center">
 
-### ⭐ Best Repositories
+<img src="https://github-profile-trophy.vercel.app/?username=prathmeshbole5-hub&theme=matrix&no-frame=true&column=7&margin-w=5&margin-h=5" width="98%"/>
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-#### 🤖 AI Multilingual Education Platform
-*IIT Bombay TechFest 2025 — Top 5 / 200+ Teams*
+<!-- ══════════════════════════════════════════════════ -->
+<!--              TECH STACK BADGES                    -->
+<!-- ══════════════════════════════════════════════════ -->
 
-Google Gemini API powered platform supporting **22+ Indian languages** with voice-interactive AI teaching and quiz auto-generation.
-
-`React` `Node.js` `Express` `MongoDB` `Gemini API` `Vercel`
-
-</td>
-<td width="50%" valign="top">
-
-#### 💳 Mahalakshmi Finserv Platform
-*Production Freelance FinTech System*
-
-End-to-end lending platform with onboarding, EMI calculator, Cloudinary asset pipeline and Cloudflare security integration.
-
-`React` `Node.js` `Express` `MongoDB` `Cloudinary` `Cloudflare`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎓 Alumni Connect Portal
-*University Networking Platform*
-
-Full-stack portal connecting students & alumni for mentorship. Optimized MongoDB queries and JWT-secured responsive dashboard.
-
-`React` `Node.js` `Express` `MongoDB` `JWT`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔬 DSA & Systems Lab
-*Personal R&D — In Progress*
-
-High-performance Data Structures & Algorithms in Java & C++. Exploring OS internals — memory management, scheduling, concurrency.
-
-`Java` `C++` `Algorithms` `OS Concepts` `System Design`
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════ TECH STACK ═══════ -->
 <div align="center">
 
 ### 💻 Tech Stack
 
 <br/>
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=flat&logo=express&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-<!-- ═══════ ACTIVITY GRAPH ═══════ -->
+<!-- ══════════════════════════════════════════════════ -->
+<!--         TOP CONTRIBUTED REPOS + QUOTES            -->
+<!-- ══════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathmeshbole5-hub&bg_color=0d1117&color=00f2fe&line=00f2fe&point=ffffff&area=true&hide_border=true" width="95%"/>
+<table border="0" width="100%">
+<tr>
+<td width="55%" valign="top" align="center">
+
+### 🏆 Top Contributed Repo
+
+<img src="https://github-contributor-stats.vercel.app/api?username=prathmeshbole5-hub&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=ffffff" width="100%"/>
+
+</td>
+<td width="45%" valign="top" align="center">
+
+### 💬 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-<!-- ═══════ SUPPORT + FOOTER ═══════ -->
+<!-- ══════════════════════════════════════════════════ -->
+<!--           CONTRIBUTION GRAPH                      -->
+<!-- ══════════════════════════════════════════════════ -->
+
 <div align="center">
 
-**Support Me ☕**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathmeshbole5-hub&bg_color=0D1117&color=00FF88&line=00FF88&point=ffffff&area=true&hide_border=true" width="97%"/>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════ -->
+<!--              SUPPORT ME                           -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+**Support Me 🍵**
 
 <a href="https://www.buymeacoffee.com" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me A Coffee"/>
 </a>
 
+</div>
+
 <br/><br/>
 
-<!-- PIXEL ART TORII GATE LANDSCAPE FOOTER -->
+<!-- ══════════════════════════════════════════════════ -->
+<!--     CYBERPUNK CITY SILHOUETTE FOOTER              -->
+<!-- ══════════════════════════════════════════════════ -->
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF88,100:0D1117&height=80&section=footer" width="100%"/>
 
 </div>
