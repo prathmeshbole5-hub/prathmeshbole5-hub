@@ -1,107 +1,153 @@
 <div align="center">
 
-  <!-- Cyber/Anime Styled Header Image -->
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Header Banner" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=220&section=header&text=Namaste%20🙏%20I'm%20Prathmesh%20Bole&fontSize=38&fontColor=ffffff&animation=twinkle&fontAlignY=38" width="100%" />
 
-  <br />
-  <br />
+  <!-- Animated Typing Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FACFE&center=true&vCenter=true&width=600&lines=AI+%26+Full+Stack+Developer;Java+%26+Spring+Boot+Enthusiast;Generative+AI+%26+LLM+Developer;IIT+Bombay+TechFest+2025+Finalist" alt="Typing SVG" />
+  </a>
 
-  <h1>Namaste 🙏 I'm Prathmesh Bole</h1>
-  
-  <p><strong>AI & Full Stack Developer | Java | Spring Boot | Generative AI | MERN Stack</strong></p>
+  <br/><br/>
 
-  <!-- Live Dynamic Profile Badges -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=prathmeshbole5-hub&label=PROFILE+VIEWS&color=0078d4&style=flat-square" alt="Views" />
-    <img src="https://img.shields.io/github/stars/prathmeshbole5-hub?style=flat-square&color=6f42c1" alt="Stars" />
-    <img src="https://img.shields.io/github/followers/prathmeshbole5-hub?style=flat-square&color=28a745" alt="Followers" />
+  <!-- Badge Counters -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=prathmeshbole5-hub&label=Profile%20Views&color=00f2fe&style=flat-square" alt="Profile Views" />
+    <a href="https://github.com/prathmeshbole5-hub?tab=repositories"><img src="https://img.shields.io/github/stars/prathmeshbole5-hub?color=4facfe&style=flat-square&logo=github" alt="Stars" /></a>
+    <a href="https://github.com/prathmeshbole5-hub?tab=followers"><img src="https://img.shields.io/github/followers/prathmeshbole5-hub?color=00f2fe&style=flat-square&logo=github" alt="Followers" /></a>
   </p>
 
 </div>
 
 ---
 
-### 💻 About Me
+### 💫 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🎓 <strong>Computer Engineering Student</strong> at Parul Institute of Engineering and Technology[cite: 1].</li>
-        <li>🏆 <strong>IIT Bombay TechFest 2025 AI Eduthon Finalist</strong> — Ranked Top 5 among 200+ teams[cite: 1].</li>
-        <li>🧠 Passionate about <strong>Artificial Intelligence, Full Stack Development,</strong> and building scalable Backend Engineering systems[cite: 1].</li>
-        <li>💼 Experienced in building production-ready <strong>FinTech platforms</strong> and AI-driven platforms[cite: 1].</li>
-        <li>🚀 <strong>Currently Learning:</strong> Data Structures and Algorithms in Java, Machine Learning, Spring Boot, and System Design[cite: 1].</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-backend-architecture-illustration-download-in-svg-png-gif-file-formats--software-engineer-programmer-coding-pack-network-illustrations-6541571.png" width="100%" alt="Developer Illustration" />
-    </td>
-  </tr>
-</table>
+```yaml
+name: Prathmesh Bole
+role: AI & Full Stack Developer
+location: Sambhajinagar, Maharashtra, India 🇮🇳
+education: B.Tech in Computer Engineering @ Parul Institute of Engineering & Technology (CGPA: 7.8/10)
+passions: Building AI-powered platforms, Scalable FinTech solutions, & Cloud Deployments
+current_focus: Deepening DSA in Java, Spring Boot Microservices, & Generative AI Applications
+```
+
+- 🏆 **IIT Bombay TechFest 2025 AI Eduthon Finalist** — Top 5 position out of 200+ competing teams!
+- 🚀 Built AI platforms assisting students across **22+ Indian languages** using Google Gemini API.
+- 💼 Freelance experience delivering end-to-end production platforms (FinTech & Lending Solutions).
+- 🎯 Passionate about writing clean code, designing robust APIs, and deploying user-centric apps.
 
 ---
 
 ### 🌐 Connect With Me
 
-<p align="left">
-  <a href="mailto:prathmeshbole10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
-  <a href="https://linkedin.com/in/prathmesh-bole-27b65736b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
-  <a href="https://leetcode.com/prathmeshbole5-hub"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" /></a>
-</p>
-
----
-
-### 📊 GitHub Status & Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathmeshbole5-hub&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshbole5-hub&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+  <a href="mailto:prathmeshbole10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/prathmeshbole5-hub" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools I Have Placed My Hands On
 
+#### **Programming Languages & Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,js,python,react,nodejs,express,spring,mongodb,postgres,docker,git&perline=6" width="100%" alt="Tech Stack Icons" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,js,py,html,css,tailwind,react&perline=8" alt="Languages & Frontend" />
+  </a>
+</p>
+
+#### **Backend, AI/ML & Databases**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,firebase&perline=8" alt="Backend & Databases" />
+  </a>
+</p>
+
+#### **DevOps, Tools & Cloud**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,cloudflare,postman,vscode&perline=8" alt="DevOps & Tools" />
+  </a>
 </p>
 
 ---
 
-### ⭐ Featured Repositories
+### 🌟 Featured Repositories & Highlights
 
-<table border="0">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background-color: #0d1117;">
-        <h4>🤖 AI-Powered Multilingual Education Platform</h4>
-        <p>Finalist system at <em>IIT Bombay TechFest 2025 AI Eduthon</em>[cite: 1]. Integrated Google Gemini API to deliver interactive, voice-enabled learning across 22+ Indian languages[cite: 1].</p>
-        <p><small><b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB, Gemini API, Vercel[cite: 1]</small></p>
-      </div>
+      <h3 align="center">🤖 Multilingual AI Education Platform</h3>
+      <p align="center"><i>IIT Bombay TechFest 2025 AI Eduthon Finalist (Top 5 / 200+ Teams)</i></p>
+      <ul>
+        <li>Integrated <b>Google Gemini API</b> for interactive voice-enabled AI teaching assistant.</li>
+        <li>Multilingual learning support across <b>22+ Indian languages</b> with auto quiz generation.</li>
+        <li><b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB, Gemini API, Vercel</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background-color: #0d1117;">
-        <h4>💳 Mahalakshmi Finserv Digital Lending Platform</h4>
-        <p>Production full-stack freelance FinTech platform addressing client onboarding, documentation asset workflows via Cloudinary, and deep loan comparison systems[cite: 1].</p>
-        <p><small><b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB, Cloudinary, Vercel[cite: 1]</small></p>
-      </div>
+      <h3 align="center">💳 Mahalakshmi Finserv Platform</h3>
+      <p align="center"><i>Full-Stack Freelance Digital Lending Platform</i></p>
+      <ul>
+        <li>Production FinTech system for client onboarding, loan comparison & EMI calculation.</li>
+        <li>Integrated secure document workflow via Cloudinary and Cloudflare security rules.</li>
+        <li><b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB, REST APIs, Cloudinary</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 Alumni Connect Platform</h3>
+      <p align="center"><i>University Networking & Mentorship Portal</i></p>
+      <ul>
+        <li>Full-stack networking platform bridging students and alumni for guidance and sharing.</li>
+        <li>Designed responsive UI and optimized MongoDB backend queries.</li>
+        <li><b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB, Git</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌱 Currently Learning & Exploring</h3>
+      <p align="center"><i>Continuous Growth & Skill Building</i></p>
+      <ul>
+        <li>🧩 <b>DSA in Java:</b> Problem solving & algorithmic optimization.</li>
+        <li>⚡ <b>Backend Engineering:</b> Enterprise microservices using Spring Boot.</li>
+        <li>🧠 <b>Machine Learning & AI:</b> Deep learning models & LLM integration.</li>
+        <li>🏗️ <b>System Design:</b> High availability & scalable application architectures.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Technical Stack Matrix
-
-![](https://img.shields.io/badge/Frontend-React.js%20%7C%20TailwindCSS%20%7C%20HTML5%20%7C%20CSS3-blue?style=flat-square)[cite: 1]
-![](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express.js%20%7C%20Spring%20Boot%20%7C%20REST%20APIs-green?style=flat-square)[cite: 1]
-![](https://img.shields.io/badge/AI%20%2F%20ML-Generative%20AI%20%7C%20LLMs%20%7C%20OpenAI%20%7C%20Gemini-orange?style=flat-square)[cite: 1]
-![](https://img.shields.io/badge/Tools%20%26%20Cloud-Docker%20%7C%20Git%20%7C%20Vercel%20%7C%20Cloudflare%20%7C%20Cloudinary-purple?style=flat-square)[cite: 1]
-
-<br />
+### 📊 GitHub Status & Analytics
 
 <div align="center">
-  <!-- Aesthetic Pixel Footer Image -->
-  <img src="https://raw.githubusercontent.com/sefyudem/Responsive-Web-Design/master/Interactive%20Pixel%20Art%20Tori%20Gate/assets/background.png" width="100%" alt="Footer Art" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prathmeshbole5-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Prathmesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshbole5-hub&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmeshbole5-hub&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer" width="100%" />
+  
+  <i>"Transforming ideas into scalable AI & full-stack solutions."</i>
 </div>
